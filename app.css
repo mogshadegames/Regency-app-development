@@ -10,3 +10,5 @@
 .journal-choice{display:inline-block;margin:5px 0 0;padding:3px 7px;border:1px solid var(--line);font-size:.75rem;color:var(--wine)}.memory-entry{padding:10px 0 18px;border-bottom:1px solid var(--line)}
 
 .rules-copy p{margin:.65em 0}.app-rule{border-left:3px solid var(--gold);padding-left:12px}.nav button:nth-child(4){font-size:.72rem}
+
+.mini-edit{border:0;background:none;color:var(--wine);font:inherit;font-size:.72rem;text-decoration:underline;padding:2px 5px;cursor:pointer}.print-block strong{font-weight:bold}
