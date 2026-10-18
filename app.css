@@ -19,3 +19,5 @@
 
 .loom-journal-mark{position:absolute;left:50%;bottom:16.5%;transform:translateX(-50%) rotate(-2deg);color:#17110f;font-family:"Segoe Print","Bradley Hand","Comic Sans MS",cursive;font-size:clamp(.72rem,2.8vw,.92rem);letter-spacing:.025em;white-space:nowrap;opacity:.9;text-shadow:0 1px #f0d9b533}
 @media(max-width:560px){.loom-journal-mark{bottom:15.8%}}
+
+.cover-gate[hidden]{display:none!important}.writing-space{margin-top:20px;padding:15px 14px 10px;background:#f5eddf;border:1px solid var(--line)}.writing-space .write{margin:0 0 14px;line-height:1.5}.writing-space h3{margin:8px 0}.writing-space textarea{min-height:190px}.dictation-valet{font-size:.78rem;font-style:italic;color:var(--muted);margin:8px 0 12px;line-height:1.5}.nav button:focus-visible,.cover-plate:focus-visible{outline:3px solid var(--gold);outline-offset:-3px}.homebrand{border:0;background:none;font:inherit;color:inherit;cursor:pointer;padding:0;text-align:left}
